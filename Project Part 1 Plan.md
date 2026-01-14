@@ -12,6 +12,16 @@ The project will include key pages such as the homepage that introduces the busi
 
 Group Member parts:
 
+**Rashad:**
+
+2. **Bookings/Appointments**  
+   1. **Booking can be made by customer for a specific service, date and time and may include contact details and vehicle info.**  
+   2. **CRUD: admin can create a new booking, view the upcoming bookings, update/cancel the bookings, or remove if necessary**
+
+**\-github commits/documentation**  
+\-backend development part split with Saad
+
+
 **Saad:**  
 **Implement two appropriate objects with CRUD logic**
 
@@ -27,14 +37,6 @@ Group Member parts:
 - **Paragraphs, logo design**   
 - **Github commits/documentation**
 
-**Rashad:**
-
-2. **Bookings/Appointments**  
-   1. **Booking can be made by customer for a specific service, date and time and may include contact details and vehicle info.**  
-   2. **CRUD: admin can create a new booking, view the upcoming bookings, update/cancel the bookings, or remove if necessary**
-
-**\-github commits/documentation**  
-\-backend development part split with Saad
 
 Video Demonstrations in google drive:  
 [https://drive.google.com/drive/folders/15zGUuaPKskbUGMwcEikW0b3BFPeus\_PN?usp=sharing](https://drive.google.com/drive/folders/15zGUuaPKskbUGMwcEikW0b3BFPeus_PN?usp=sharing)  
